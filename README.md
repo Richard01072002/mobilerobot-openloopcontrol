@@ -1,5 +1,5 @@
 # EXP-7 MobileRobot-Openloopcontrol
-## Date: 08.11.2023
+## Date: 06.11.2023
 ## Aim:
 To develop a python control code to move the mobilerobot along the predefined path.
 
